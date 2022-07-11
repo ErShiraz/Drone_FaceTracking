@@ -20,5 +20,3 @@ The implementation **must** meet the following requirements:
     * Below is the Root Locus diagram of the implemented PI control scheme for the drone. 
     * ![img.png](img.png)
  
- * **Functional Demo**
-   ![](AhadDemo.gif)
